@@ -21,6 +21,10 @@ STEP I DID
 9. npm install -g nodemon   for gloabl installation
 10. nodemon app.js
 
+*/
 
+/*
+node js basically ek platform hai jisme agar javascript hume chrome se bahar chalana hai to uske liye. 
+to make it easier we use Express.js
 
 */
