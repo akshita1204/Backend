@@ -15,6 +15,8 @@ STEP I DID
 3. Enter
 4. Give description as if u want
 5. enter...........
+6.add a script as start in scripts
+7.npm start
 
 
 */
