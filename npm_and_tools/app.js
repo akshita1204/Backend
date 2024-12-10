@@ -3,7 +3,7 @@ const server=http.createServer((req,res)=>
 {
     console.log(req);
 })
-const PORT=3003;
+const PORT=3004;
 server.listen(PORT,()=>
 {
     console.log(`Server running on the ${PORT}`);
@@ -17,6 +17,10 @@ STEP I DID
 5. enter...........
 6.add a script as start in scripts
 7.npm start
+8.npm install nodemon --save-dev
+9. npm install -g nodemon   for gloabl installation
+10. nodemon app.js
+
 
 
 */
